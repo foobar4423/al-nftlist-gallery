@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ritwickdey.liveserver",
+    "dbaeumer.vscode-eslint",
+    "orta.vscode-jest",
+    "tobermory.es6-string-html"
+  ]
+}
